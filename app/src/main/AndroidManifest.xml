@@ -16,6 +16,23 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".chapter.Ch7TableLayout" />
+        <activity android:name=".chapter.Ch7ChangeAttributes" />
+        <activity android:name=".chapter.Ch7PiledLayout" />
+        <activity android:name=".chapter.Ch7PiledLayout2" />
+        <activity android:name=".chapter.Ch8Canvas" />
+        <activity android:name=".chapter.Ch8CustomView" />
+        <activity android:name=".chapter.Ch8Paint" />
+        <activity android:name=".chapter.Ch8Paint2" />
+        <activity android:name=".chapter.Ch8SoundOutput" />
+        <activity android:name=".chapter.Ch8Toast" />
+        <activity android:name=".chapter.Ch9CallbackMethod" />
+        <activity android:name=".chapter.Ch9Listeneractivity" />
+        <activity android:name=".chapter.Ch9ListenerInterface" />
+        <activity android:name=".chapter.Ch9ListenerView" />
+        <activity android:name=".chapter.Ch10HandlerOrder" />
+        <activity android:name=".chapter.Ch10KeyboardInput" />
+        <activity android:name=".chapter.Ch10ScreenTouchInput"></activity>
     </application>
 
 </manifest>
