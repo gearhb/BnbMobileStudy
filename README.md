@@ -1,4 +1,4 @@
-# BnbMobileStudy
+# 프로젝트 다운로드 방법
 
 ![다운로드](http://postfiles11.naver.net/MjAxODA1MDZfMjgg/MDAxNTI1NTk3OTA1MzY1.waZ9sDTQzgTn3rWV8etgqfbcCYpIxy5XiwX-HuMrAqsg.zKKzLa9nZ7WUnfhlxLzZjjk714PHKLdqsFcSFh4mjdwg.PNG.lantern_bh/001.png?type=w580)
 
