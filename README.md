@@ -5,8 +5,7 @@
 
 [챕터 폴더로 바로 이동](https://github.com/gearhb/BnbMobileStudy/blob/master/app/src/main/java/com/dev/gearhb/bnbmobilestudy/chapter)
 
-[레이아웃 폴더로 바로 이동]
-(https://github.com/gearhb/BnbMobileStudy/tree/master/app/src/main/res/layout)
+[레이아웃 폴더로 바로 이동](https://github.com/gearhb/BnbMobileStudy/tree/master/app/src/main/res/layout)
 
 
 # 프로젝트 다운로드 방법
