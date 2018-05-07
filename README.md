@@ -3,7 +3,7 @@
 
 위의 폴더 위치를 따라 가시면 챕터 별로 예제소스를 확인 가능 합니다.
 
-[챕터 폴더로 바로 이동](https://github.com/gearhb/BnbMobileStudy/blob/master/app/src/main/java/com/dev/gearhb/bnbmobilestudy/chapter/Ch8Paint2.java)
+[챕터 폴더로 바로 이동](https://github.com/gearhb/BnbMobileStudy/blob/master/app/src/main/java/com/dev/gearhb/bnbmobilestudy/chapter)
 
 # 프로젝트 다운로드 방법
 
