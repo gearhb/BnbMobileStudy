@@ -5,6 +5,10 @@
 
 [챕터 폴더로 바로 이동](https://github.com/gearhb/BnbMobileStudy/blob/master/app/src/main/java/com/dev/gearhb/bnbmobilestudy/chapter)
 
+[레이아웃 폴더로 바로 이동]
+(https://github.com/gearhb/BnbMobileStudy/tree/master/app/src/main/res/layout)
+
+
 # 프로젝트 다운로드 방법
 
 ![다운로드](http://postfiles11.naver.net/MjAxODA1MDZfMjgg/MDAxNTI1NTk3OTA1MzY1.waZ9sDTQzgTn3rWV8etgqfbcCYpIxy5XiwX-HuMrAqsg.zKKzLa9nZ7WUnfhlxLzZjjk714PHKLdqsFcSFh4mjdwg.PNG.lantern_bh/001.png?type=w580)
