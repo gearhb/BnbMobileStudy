@@ -21,11 +21,12 @@ public class Ch10HandlerOrder extends AppCompatActivity {
             public boolean onTouch(View v, MotionEvent event) {
                 if (event.getAction() == MotionEvent.ACTION_DOWN) {
                     Toast.makeText(Ch10HandlerOrder.this, "No.1 Listener: Touch Event Received", Toast.LENGTH_SHORT).show();
-                    return true;
+                    return true; // true 를 반환하면 다음으로 이벤트를 전달 하지 않음
                 }
                 return false;
             }
         });
+
         setContentView(vw);
     }
 

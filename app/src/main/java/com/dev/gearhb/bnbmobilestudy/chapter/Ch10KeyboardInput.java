@@ -20,8 +20,8 @@ public class Ch10KeyboardInput extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         vw = new MyView(this);
-        vw.setFocusable(true);
-        vw.setFocusableInTouchMode(true);
+        vw.setFocusable(true); // 키 입력은 포커스를 가진 View에게만 전달되므로 생성된 View의 포커스(focusable)는 true로 해야 함
+        vw.setFocusableInTouchMode(true); // View가 터치 모드인 동안에 포커스를 받을 것인지를 결정함
         setContentView(vw);
 
     }
@@ -49,6 +49,8 @@ public class Ch10KeyboardInput extends AppCompatActivity {
 
         public boolean onKeyDown(int KeyCode, KeyEvent event) {
             super.onKeyDown(KeyCode, event);
+
+
             if (event.getAction() == KeyEvent.ACTION_DOWN)
             {
                 switch (KeyCode) {
