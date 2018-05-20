@@ -42,12 +42,12 @@ public class Ch8Paint2 extends AppCompatActivity {
             Pnt.setStrokeWidth(15);
             Pnt.setStyle(Paint.Style.STROKE);
             Pnt.setStrokeJoin(Paint.Join.MITER);
-            canvas.drawRect(30, 110, 70, 145, Pnt);
+            canvas.drawRect(30, 110, 100, 200, Pnt);
 
             Pnt.setStrokeJoin(Paint.Join.BEVEL);
-            canvas.drawRect(100, 110, 140, 145, Pnt);
+            canvas.drawRect(300, 110, 140, 200, Pnt);
             Pnt.setStrokeJoin(Paint.Join.ROUND);
-            canvas.drawRect(170, 110, 210, 145, Pnt);
+            canvas.drawRect(600, 110, 210, 145, Pnt);
 
             // 원 스타일 테스트
             Pnt.setColor(Color.GREEN);

@@ -30,6 +30,7 @@ public class Ch8Paint extends AppCompatActivity {
             Paint Pnt = new Paint();
             Pnt.setColor(Color.BLACK);
             Pnt.setTextSize(80);
+            Pnt.setStyle(Paint.Style.STROKE);
 
             // 기본 출력
             canvas.drawOval(new RectF(10, 10, 200, 120), Pnt);

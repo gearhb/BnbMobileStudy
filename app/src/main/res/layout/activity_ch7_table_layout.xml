@@ -3,22 +3,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:shrinkColumns="0"
     tools:context=".MainActivity" >
 
     <TableRow>
         <TextView
-            android:text="SUN"
+            android:text="SUNaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
             android:textSize="30px"
             android:padding="5dip"
-            android:textColor="#FF0000" />
+            android:textColor="#FF0000"
+            android:background="#FFFF00"/>
         <TextView
-            android:text="MON"
+            android:text="MONaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
             android:textSize="30px"
-            android:padding="5dip" />
+            android:padding="5dip"
+            android:background="#00FF00"/>
         <TextView
-            android:text="TUE"
+            android:text="TUEaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
             android:textSize="30px"
-            android:padding="5dip" />
+            android:padding="5dip"
+            android:background="#00FFFF"/>
     </TableRow>
 
     <TableRow>
@@ -33,6 +37,21 @@
             android:padding="5dip" />
         <TextView
             android:text="7"
+            android:textSize="30px"
+            android:padding="5dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="8"
+            android:textSize="30px"
+            android:padding="5dip"
+            android:textColor="#FF0000" />
+        <TextView
+            android:text="9"
+            android:textSize="30px"
+            android:padding="5dip" />
+        <TextView
+            android:text="10"
             android:textSize="30px"
             android:padding="5dip" />
     </TableRow>

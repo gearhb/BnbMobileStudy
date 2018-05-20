@@ -3,6 +3,9 @@ package com.dev.gearhb.bnbmobilestudy.menu;
 import com.dev.gearhb.bnbmobilestudy.chapter.Ch10HandlerOrder;
 import com.dev.gearhb.bnbmobilestudy.chapter.Ch10KeyboardInput;
 import com.dev.gearhb.bnbmobilestudy.chapter.Ch10ScreenTouchInput;
+import com.dev.gearhb.bnbmobilestudy.chapter.Ch11Timer;
+import com.dev.gearhb.bnbmobilestudy.chapter.Ch11Widget;
+import com.dev.gearhb.bnbmobilestudy.chapter.Ch11Widget2;
 import com.dev.gearhb.bnbmobilestudy.chapter.Ch7ChangeAttributes;
 import com.dev.gearhb.bnbmobilestudy.chapter.Ch7PiledLayout;
 import com.dev.gearhb.bnbmobilestudy.chapter.Ch7PiledLayout2;
@@ -41,7 +44,10 @@ public enum MenuEnum {
     LISTENERVIEW("9강 ListenerView",Ch9ListenerView.class),
     HANDLERORDER("10강 HandlerOrder", Ch10HandlerOrder.class),
     KEYBOARDINPUT("11강 KeyboardInput",Ch10KeyboardInput.class),
-    SCREENTOUCHINPUT("11강 ScreenTouchInput", Ch10ScreenTouchInput.class);
+    SCREENTOUCHINPUT("11강 ScreenTouchInput", Ch10ScreenTouchInput.class),
+    WIDGET("11강 Widget", Ch11Widget.class),
+    WIDGET2("11강 Widget2", Ch11Widget2.class),
+    TIMER("11강 Timer", Ch11Timer.class);
 
     private String m_name;
     private Class m_cls;

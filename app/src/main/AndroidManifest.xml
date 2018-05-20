@@ -32,7 +32,10 @@
         <activity android:name=".chapter.Ch9ListenerView" />
         <activity android:name=".chapter.Ch10HandlerOrder" />
         <activity android:name=".chapter.Ch10KeyboardInput" />
-        <activity android:name=".chapter.Ch10ScreenTouchInput"></activity>
+        <activity android:name=".chapter.Ch10ScreenTouchInput" />
+        <activity android:name=".chapter.Ch11Timer" />
+        <activity android:name=".chapter.Ch11Widget" />
+        <activity android:name=".chapter.Ch11Widget2"></activity>
     </application>
 
 </manifest>
