@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BnbMobileStudy</string>
     <string name="title_activity_table_layout">TableLayoutActivity</string>
+    <string name="ptext">원하는 색상을 선택하세요</string>
 </resources>

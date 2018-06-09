@@ -1,0 +1,35 @@
+<resources>
+    <string-array name="mobile">
+        <item>Application</item>
+        <item>Activity</item>
+        <item>Intent</item>
+        <item>Layout</item>
+        <item>Linear</item>
+        <item>Relative</item>
+        <item>Absolute</item>
+        <item>Life Cycle</item>
+        <item>Inflation</item>
+        <item>View</item>
+        <item>Permission</item>
+        <item>Widget</item>
+        <item>Preference</item>
+        <item>Broadcast</item>
+        <item>Fragment</item>
+        <item>Drawable</item>
+    </string-array>
+    <string-array name="colors">
+        <item>검정색</item>
+        <item>흰색</item>
+        <item>짙은 회색</item>
+        <item>회색</item>
+        <item>옅은 회색</item>
+        <item>빨간색</item>
+        <item>연두색</item>
+        <item>파란색</item>
+        <item>노란색</item>
+        <item>하늘색</item>
+        <item>분홍색</item>
+        <item>초록색</item>
+        <item>남색</item>
+    </string-array>
+</resources>

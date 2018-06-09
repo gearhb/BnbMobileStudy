@@ -35,7 +35,19 @@
         <activity android:name=".chapter.Ch10ScreenTouchInput" />
         <activity android:name=".chapter.Ch11Timer" />
         <activity android:name=".chapter.Ch11Widget" />
-        <activity android:name=".chapter.Ch11Widget2"></activity>
+        <activity android:name=".chapter.Ch11Widget2" />
+        <activity android:name=".chapter.Ch12CallActivity" />
+        <activity android:name=".chapter.Ch12SubActivity" />
+        <activity android:name=".chapter.Ch12Intent" />
+        <activity android:name=".chapter.Ch13ListView" />
+        <activity android:name=".chapter.Ch13ListView2" />
+        <activity android:name=".chapter.Ch13ListView3" />
+        <activity android:name=".chapter.Ch13Spinner" />
+        <activity android:name=".chapter.Ch14AlertDialog3" />
+        <activity android:name=".chapter.Ch14AlertDialog" />
+        <activity android:name=".chapter.Ch14AlertDialog2" />
+        <activity android:name=".chapter.Ch15AlertDialog2" />
+        <activity android:name=".chapter.Ch15AlertDialog"></activity>
     </application>
 
 </manifest>
