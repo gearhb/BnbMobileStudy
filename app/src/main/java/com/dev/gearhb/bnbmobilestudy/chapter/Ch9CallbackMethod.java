@@ -25,10 +25,12 @@ public class Ch9CallbackMethod extends AppCompatActivity {
 
         public boolean onTouchEvent(MotionEvent event) {
             super.onTouchEvent(event);
+
             if (event.getAction() == MotionEvent.ACTION_DOWN) {
                 Toast.makeText(Ch9CallbackMethod.this, "Touch Event Received", Toast.LENGTH_SHORT).show();
                 return true;
             }
+
             return false;
         }
     }

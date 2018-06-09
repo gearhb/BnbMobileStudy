@@ -43,6 +43,7 @@ public class Ch10ScreenTouchInput extends AppCompatActivity {
     protected class MyView extends View
     {
         Paint Pnt;
+
         public MyView(Context context)
         {
             super(context);

@@ -39,7 +39,7 @@ public class Ch10HandlerOrder extends AppCompatActivity {
         public boolean onTouchEvent(MotionEvent event) {
             if (event.getAction() == MotionEvent.ACTION_DOWN) {
                 Toast.makeText(Ch10HandlerOrder.this, "No.2 View: Touch Event Received", Toast.LENGTH_SHORT).show();
-                return true;
+                return false;
             }
             return false;
         }
